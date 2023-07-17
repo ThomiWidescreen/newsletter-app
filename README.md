@@ -40,3 +40,5 @@ Then, we can run our docker-compose file.
 ```bash
   docker-compose up
 ```
+
+For default, the server should init in port 5000 and the client in the port 3000.
