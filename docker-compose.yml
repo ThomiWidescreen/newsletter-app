@@ -1,0 +1,11 @@
+version: '3'
+services:
+  newsletter-back:
+    image: newsletter-back:latest
+    ports:
+      - 5000:5000
+
+  newsletter-front:
+    image: newsletter-front:latest
+    ports:
+      - 3000:3000
