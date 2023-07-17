@@ -11,5 +11,3 @@ class Config(object):
 
 
 config = Config()
-
-#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
